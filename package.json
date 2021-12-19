@@ -1,4 +1,6 @@
 {
+  "name": "spotify-clone-by-ak",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
