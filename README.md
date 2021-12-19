@@ -1,9 +1,9 @@
-### Preview : https://spotify-rebuild2.vercel.app/
+## <a href="https://spotify-rebuild-2.vercel.app/" target="_blank">Live Preview<a/>
 <img src="/ss.png" />
 
 <br />
 
-### Installation
+## Installation
 
 1. Clone the repo
    ```sh
